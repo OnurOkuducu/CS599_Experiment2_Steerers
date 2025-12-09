@@ -1,0 +1,9 @@
+Checkpoints/
+I2P/
+female_dominant/
+male_dominant/
+ethnic_bias/
+wandb/
+*.wandb
+*.png 
+*.ipynb  
